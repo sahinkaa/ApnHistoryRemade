@@ -4,7 +4,9 @@
 
 I've been using ApnHistory since the dawn of time. I couldn't go without it on iOS 26, so I remade it. Thank you to **m156nrkvv** for making the original and giving me a tweak I've kept coming back to for years.
 
-ApnHistory Remade keeps a local history of app notifications, incoming SMS and calls. Browse it by app or in a timeline.
+ApnHistory Remade keeps a local history of app notifications, incoming SMS and calls. Browse it by app or in a timeline. Use **Copy notification** from an entry’s menu to put its text on the clipboard.
+
+Keep track of notifications from apps whose alerts you’ve turned off, whenever iOS still posts those notifications as system bulletins. Turning off delivery can prevent a notification from reaching the capture hook.
 
 ## What's changed from the original
 
