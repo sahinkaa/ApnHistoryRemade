@@ -19,7 +19,7 @@ Keep track of notifications from apps whose alerts you’ve turned off, whenever
 
 ## Compatibility and installation
 
-The package targets **iOS 16.6 through iOS 26 on RootHide**. Tested on **iOS 16.6** and **iOS 26.0.1**. Download the RootHide .deb from [v1.0](https://github.com/sahinkaa/ApnHistoryRemade/releases/tag/v1.0) and open it in Sileo. The Home Screen label is **ApnHistory**.
+The packages target **iOS 15 through iOS 26**. The app was tested on **iOS 16.6** and **iOS 26.0.1** with RootHide. iOS 15 and rootless runtime behavior still need device testing. Choose the .deb for your jailbreak from [v1.0](https://github.com/sahinkaa/ApnHistoryRemade/releases/tag/v1.0) and open it in Sileo. Rootless uses `iphoneos-arm64`. RootHide uses `iphoneos-arm64e`. The Home Screen label is **ApnHistory**.
 
 ## Credits
 
